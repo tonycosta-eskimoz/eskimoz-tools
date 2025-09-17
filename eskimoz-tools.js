@@ -1,3 +1,4 @@
+alert("Eskimoz Tools chargé !");
 var e = document.getElementById('eskimoz-popup');
 if (e) {
   e.remove();
@@ -67,3 +68,4 @@ d.innerHTML =
   '</div>';
 
 document.body.appendChild(d);
+
